@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "460315771702",
+    "firebase_url": "https://officetaskmanagementapp.firebaseio.com",
+    "project_id": "officetaskmanagementapp",
+    "storage_bucket": "officetaskmanagementapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460315771702:android:c672146b45a53d8d",
+        "android_client_info": {
+          "package_name": "com.asharkhan.officetaskmanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460315771702-6r2kpbp7opl4ah104knpeachem9sebel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTy7Ymsb71ypvO1JMTeCbhFpTQ_MYk6Fs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

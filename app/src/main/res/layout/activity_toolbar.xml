@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    app:popupTheme="@style/Base.ThemeOverlay.AppCompat.Dark"
+    android:theme="@style/Base.ThemeOverlay.AppCompat.Dark"
+    android:background="@drawable/toolbar"
+    android:layout_height="wrap_content"
+    tools:context="com.asharkhan.officetaskmanagementapp.toolbar">
+
+</android.support.v7.widget.Toolbar>
